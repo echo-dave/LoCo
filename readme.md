@@ -21,6 +21,10 @@ The front end JS was kept in the index file to pass to our events generating JS 
 • Pearl - Front end Designer.  
 • Alexis - Back end Weather API using Dark Sky.  
 
+> [!WARNING]
+> > The Weather API has since been shutdown after buyout  
+> The Average Pricing API also seems to have changed and needs review  /updating
+
 ![Search](assets/img/imgReadme/Search.jpg)
 ![Results](assets/img/imgReadme/Results.jpg)  
 
